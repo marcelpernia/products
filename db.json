@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Title": "Trozos de atún en salsa picante",
+      "thumbnail": {
+        "small": "",
+        "large": 
+      }
+    }
+  ]
+}
