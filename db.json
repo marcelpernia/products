@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "Title": "Trozos de atún en salsa picante",
+      "title": "Trozos de atún en salsa picante",
       "price": 2.50,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/40694489?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "Title": "Pasta de Aji Panca",
+      "title": "Pasta de Aji Panca",
       "price": 3.20,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/41514731?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "Title": "Mayonesa",
+      "title": "Mayonesa",
       "price": 4.50,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/40845623?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "Title": "Espárrago verde en Salmuera",
+      "title": "Espárrago verde en Salmuera",
       "price": 6.00,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/40996400?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "Title": "Salsa de ajií amarillo",
+      "title": "Salsa de ajií amarillo",
       "price": 4.50,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/41514734?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -46,8 +46,8 @@
       }
     },
     {
-      "id": 5,
-      "Title": "Harina preparada",
+      "id": 6,
+      "title": "Harina preparada",
       "price": 7,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/40560973?$S7Product$&wid=129&hei=129&op_sharpen=0",
@@ -55,8 +55,8 @@
       }
     },
     {
-      "id": 6,
-      "Title": "Duraznos en Almibar",
+      "id": 7,
+      "title": "Duraznos en Almibar",
       "price": 6,
       "thumbnail": {
         "small": "https://s7d2.scene7.com/is/image/TottusPE/10171815?$S7Product$&wid=129&hei=129&op_sharpen=0",
